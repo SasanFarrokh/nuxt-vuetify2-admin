@@ -6,7 +6,7 @@
 
 Nuxt.js - Vuetify 2 project template
 
-Demo: [https://sasanfarrokh.github.io/nuxt-vuetify2-admin/](https://sasanfarrokh.github.io/nuxt-vuetify2-admin/)
+Demo: [https://sasanfarrokh.github.io/en/](https://sasanfarrokh.github.io/en/)
 
 ## Features
  - RTL Support
