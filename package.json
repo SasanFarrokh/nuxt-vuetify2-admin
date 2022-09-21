@@ -27,7 +27,7 @@
     "nuxt-i18n": "^6.0.0",
     "vue-chimera": "^2.4.3",
     "vue-perfect-scrollbar": "^0.1.0",
-    "vuetify": "^2.0.4"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^1.0.1",
